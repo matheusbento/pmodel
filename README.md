@@ -5,6 +5,10 @@ Matheus Bento - matheus.costa@inpe.br
 <br>
 INPE - 2019
 ----------------------------------------------------------------------
+HOW TO USE
+
+EXAMPLE 1:
+x = pmodel(noValues=2**12, p=0.52, slope=-1.66)
 
 ----------------------------------------------------------------------
 This function generates a multifractal time series using the p-model.
