@@ -9,7 +9,11 @@ HOW TO USE
 
 EXAMPLE 1:
 <br>
+<br>
+
 x = pmodel(noValues=2**12, p=0.52, slope=-1.66)
+<br>
+OBS: slope is samething that beta value
 
 ----------------------------------------------------------------------
 This function generates a multifractal time series using the p-model.
